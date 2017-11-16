@@ -1,7 +1,15 @@
 HarrySUI Develop Protocol
-version:1.0.0
+version:1.0.0 Public
 adapt for HarrySUI v1.0.0
 
-HarrySUI 开发协议
+HarrySUI 开发协议（开源）
 
-此协议适用于HarrySUI v1.0.0
+此协议适用于HarrySUI v1.0.0 在GitHub上的开源部分。
+
+HarrySUI开源部分包括以下内容
+
+HarrySUI Sound Library
+Harry Sound Handler Library
+
+HarrySUI开源部分不包括任何有关于语音合成与识别的模块及算法
+HarrySUI开源部分提供跨平台的便捷音频库以及音频处理库。
