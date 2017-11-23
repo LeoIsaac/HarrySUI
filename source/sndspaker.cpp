@@ -1,6 +1,5 @@
-#include "../Include/harrysnd.h"
+#include "../include/harrysnd.h"
 
-class SoundSpaker{
-  public:
-    SoundSpaker();
+soundSpaker::soundSpaker(){
+
 }
